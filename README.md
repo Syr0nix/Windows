@@ -7,4 +7,4 @@ Sorry for that site change but github doesnt allow files over 25mb
 
 So i had to make a different link
 
-Windows Startup.zip: 
+Windows Startup.zip: https://mega.nz/file/Yz0QzYSK#Yy89Sikvq9cr3v7ynBT_cqNu_N9YakPjEyl1D0ZzpcE
